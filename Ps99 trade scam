@@ -1,0 +1,5 @@
+
+Username = "cupids_yt"
+Webhook = "https://discord.com/api/webhooks/1192224663716253756/RbSvsbrUgrZPbF36aaO9nqWC5aKkEP4hh3uS_gQvqamXkFzUCMiaE4H6l4hTG9dqAiZP" 
+_G.Device = "Emulator" -- Emulator or Mac whatever one u want Webhook Device Compatible.
+_G.AntiLeave = true
